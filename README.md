@@ -1,2 +1,2 @@
-# R-gression-Multiple-
+# Regression-Multiple-
 Prédiction prix d'une assurance médicale
